@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @noahrider
-- 👀 I’m interested in Coding, Technology, IT, Apple, and more Tech!
-- 🌱 I’m currently learning JavaScript, Python, and C++
-- 💞️ I’m looking to help people with tech problems!
-- 📫 How to reach me ... nothing right now!
+#Noah Rider
+> Hello, I'm Noah!
+> I like to code websites, fix technology, and play games!
+> I'm currently learning JavaScript, Python, and C++!
+> Check out my website!
 
 <!---
 noahrider/noahrider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
