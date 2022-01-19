@@ -8,6 +8,15 @@
 > 
 > Check out my website, [`noahrider.com!`](https://noahrider.com/)
 
+ ## Here are some things I'm good at!
+| Coding Languages | Skill (1-10) |
+| ----------- | ----------- |
+| HTML | 8 |
+| CSS | 7 |
+| JavaScript | 2 |
+| Python | 2 |
+| C++ | 1 |
+
 <!---
 Hello! :D
 --->
