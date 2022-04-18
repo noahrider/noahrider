@@ -6,7 +6,7 @@
 > 
 > I'm currently learning JavaScript, Python, and C++!
 > 
-> Check out my website, [`noahrider.com[^1]!`](https://noahrider.com/)
+> Check out my website, [`noahrider.com!`](https://noahrider.com/)[^1]
 
  ## Here are some things I'm good at!
 | Coding Languages | Skill (1-10) |
