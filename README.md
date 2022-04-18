@@ -17,6 +17,8 @@
 | Python | 2 |
 | C++ | 1 |
 
+[^1]: [`noahrider.com](https://noahrider.com/) is still down, a placeholder is currently at the url for more imfo
+
 <!---
 Hello! :D
 --->
