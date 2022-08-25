@@ -15,9 +15,9 @@
 | CSS | 7 |
 | JavaScript | 2 |
 | Python | 2 |
-| C++ | 1 |
+| C | 2 |
 
-[^1]: [`noahrider.com](https://noahrider.com/) is down, a placeholder is currently at the url for more info
+[^1]: [`noahrider.com](https://noahrider.com/) is currently having a massive redesign (3rd times the charm!) so a placeholder is currenly at the URL
 
 <!---
 Hello! :D
