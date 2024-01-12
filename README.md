@@ -1,4 +1,4 @@
-# Noah Rider!
+# NoahRider
 
 Check out my website; [`noahrider.com`](https://noahrider.com/)
 
