@@ -1,6 +1,6 @@
 # Noah Rider
 
-Check out my website; [`noahrider.com`](https://noahrider.com/)
+Check out my website; [`www.noahrider.com`](https://noahrider.com/)
 
 About me in progress
 
